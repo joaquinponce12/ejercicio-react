@@ -1,0 +1,35 @@
+.card{
+    background-color: #ffffff;
+    color:rgb(255, 200, 0);
+    padding: 10px;
+}
+.on 
+{
+        width: 300px;
+        height: 200px;
+        background: #D52B1E;
+        background: linear-gradient(
+            to bottom, 
+            #D52B1E 0%, 
+            #D52B1E 33%, 
+            #F0E016 33%, 
+            #F0E016 67%, 
+            #007934 67%, 
+            #007934 100%);
+}
+.of
+{
+    width: 300px;
+        height: 200px;
+        background: #D52B1E;
+        background: linear-gradient(
+            to bottom, 
+            #D52B1E 50%, 
+            #ecf1ee 50%);
+}
+.img{
+    width: 200px;
+    height: 200px;
+    border-radius: 40px;
+    border-style: double ;
+}
